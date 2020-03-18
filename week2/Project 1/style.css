@@ -1,0 +1,38 @@
+#CIA-director
+{
+    color: darkgreen;
+}
+.Investigation
+{
+    color: darkblue;
+}
+img {
+    float: left;
+    margin-right: 2em; }
+ol > li
+{
+    color: darkgreen;
+}
+h1 , h2{
+    text-align: center;
+    font-family: "Georgia";
+  }
+  p
+  {
+      line-height: 25px;
+  }
+
+a{
+    text-decoration: none; 
+  }
+  #youmightalsolike
+  {
+    text-transform: uppercase;
+  }
+  /* mouse over link */
+a:hover {text-decoration: underline; 
+    color: hotpink;
+  }
+   img {
+    width: 165px;
+  }
